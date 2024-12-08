@@ -13,6 +13,7 @@ This project demonstrates the deployment of a machine learning model to predict 
    
  ├── templates/ │   
    └── index.html # HTML template for the web interface 
+   
    ├── model.pkl # Pre-trained machine learning model 
    
 ├── README.txt # Project documentation 
