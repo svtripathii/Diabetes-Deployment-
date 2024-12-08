@@ -9,6 +9,7 @@ This project demonstrates the deployment of a machine learning model to predict 
  ├── model.py # Script for training the machine learning model 
  
  ├── static/  │ 
+ 
  └── styles.css # CSS styling for the web interface 
    
  ├── templates/ │   
