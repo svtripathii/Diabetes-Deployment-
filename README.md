@@ -5,13 +5,18 @@ This project demonstrates the deployment of a machine learning model to predict 
 ## Project Structure
 
  ├── app.py # Flask application 
+ 
  ├── model.py # Script for training the machine learning model 
+ 
  ├── static/ 
    │ └── styles.css # CSS styling for the web interface 
+   
  ├── templates/ │   
    └── index.html # HTML template for the web interface 
    ├── model.pkl # Pre-trained machine learning model 
+   
 ├── README.txt # Project documentation 
+
 └── requirements.txt # Python dependencies
 
 
